@@ -91,7 +91,7 @@ const Book: React.FC = () => {
         }}
         onClick={goToNextSpread}
       >
-        <div className="absolute inset-0 bg-[url('assets/cover.png')] bg-cover bg-center flex flex-col p-8 text-center text-white">
+        <div className="absolute inset-0 bg-[url('/assets/cover.png')] bg-cover bg-center flex flex-col p-8 text-center text-white">
           <h1 className="text-6xl font-script-title tracking-wide text-red-500 [text-shadow:_0_2px_0_rgb(255_255_255_/_40%)]">
             Sparks of Love:
           </h1>

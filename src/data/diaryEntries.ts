@@ -7,7 +7,7 @@ export interface DiaryEntry {
 export const diaryEntries: DiaryEntry[] = [
   {
     id: 1,
-    image: "/assets/page1.png",
+    image: "./assets/page1.png",
     text: `The late afternoon sun dappled through the leaves of the ancient oak trees, painting shifting patterns of light and shadow across the checkered picnic blanket. Chris, feeling the gentle warmth on his skin, leaned back, a contented sigh escaping him. Beside him, a vision in yellow, complete with a tiny pink bow and a frilly skirt, giggled softly.
       "More grapes, Chris?" Pikachu's voice, a sweet, high-pitched melody, filled the air. Her large, expressive eyes, framed by long, delicate lashes, sparkled with affection. She held up a plump, purple grape, its skin glistening in the sunlight.
 
@@ -27,7 +27,7 @@ export const diaryEntries: DiaryEntry[] = [
   },
   {
     id: 2,
-    image: '/assets/page2.png',
+    image: './assets/page2.png',
     text: `The Seattle rain was doing its usual performance – a soft, persistent drumming against the windowpane of their cozy apartment. Chris, still in his comfortable lounging clothes, watched the grey world outside, a mug of steaming coffee warming his hands. It wasn't the ideal weather for their planned hike, but with Pikachu, every day was an adventure, rain or shine.
 
 He turned to see her, perched gracefully on the armrest of the sofa, diligently polishing her tiny pink bow. She hummed a cheerful tune, oblivious to the weather's gloomy mood.
@@ -50,7 +50,7 @@ Pikachu’s eyes twinkled. She stood on her tiptoes, and with a delicate flutter
 
 As Chris followed her, a wide smile spread across his face. The rain might be falling, but his world, with Pikachu in it, was always sun-drenched.`
   },
-  { id: 3, image: '/assets/page3.png', text: `The Pike Place Market had been a delightful whirlwind of sights and sounds, exactly what a gloomy Seattle day needed. Chris and Pikachu had munched on warm, sugary mini-donuts, marvelled at the flying fish, and Pikachu had spent an eternity sniffing the vibrant bouquets at the flower stalls. She had even convinced Chris to buy a small, potted succulent for their apartment, promising to "talk to it every day so it grows big and strong!"
+  { id: 3, image: './assets/page3.png', text: `The Pike Place Market had been a delightful whirlwind of sights and sounds, exactly what a gloomy Seattle day needed. Chris and Pikachu had munched on warm, sugary mini-donuts, marvelled at the flying fish, and Pikachu had spent an eternity sniffing the vibrant bouquets at the flower stalls. She had even convinced Chris to buy a small, potted succulent for their apartment, promising to "talk to it every day so it grows big and strong!"
 
 Now, as the afternoon wore on, the rain had softened to a gentle mist, and a faint, hopeful sliver of sun was attempting to break through the clouds. Chris, with Pikachu perched comfortably on his shoulder, her tiny feet occasionally tapping a rhythm against his neck, decided to take a detour on their walk home.
 
@@ -71,7 +71,7 @@ Pikachu suddenly reappeared beside him, holding a single, perfect lavender sprig
 He took the sprig, its delicate scent immediately grounding him. "Thank you, Pika. It's beautiful, just like you." He tucked it into the pocket of his jacket. "You know, seeing you so happy... that's my treasure."
 
 Pikachu beamed, a genuine, heartfelt smile that lit up her entire face. She then spotted a lone, plump bumblebee buzzing around a sunflower and, with a quick glance at Chris for permission, scampered off to "talk" to it, her tiny voice a gentle murmur in the tranquil garden. Chris simply watched, content, knowing that their love story, like this hidden garden, was a blossoming, ever-unfolding wonder.`},
-  { id: 4, image: '/assets/page4.png', text: `The lavender sprig from the secret garden sat on Chris's bedside table, its gentle fragrance mingling with the subtle, sweet scent that was uniquely Pikachu. The day had been full of delightful small adventures, from the bustling market to the serene hidden garden, and now a comfortable quiet had settled over their apartment. Outside, the last vestiges of twilight painted the Seattle sky in hues of deep purple and fading orange.
+  { id: 4, image: './assets/page4.png', text: `The lavender sprig from the secret garden sat on Chris's bedside table, its gentle fragrance mingling with the subtle, sweet scent that was uniquely Pikachu. The day had been full of delightful small adventures, from the bustling market to the serene hidden garden, and now a comfortable quiet had settled over their apartment. Outside, the last vestiges of twilight painted the Seattle sky in hues of deep purple and fading orange.
 
 Chris had just stepped out of the shower, a towel wrapped low around his waist. The warmth of the steam still clung to him, and he ran a hand through his damp, long hair, pushing it back from his face. He walked into the living room, where the soft glow of a lamp cast long shadows, and found Pikachu curled up on the sofa, seemingly lost in thought. She was wearing a delicate, silken nightgown that Chris had playfully bought for her on a whim, and it shimmered in the dim light, accentuating her hyper-feminine form.
 
@@ -94,7 +94,7 @@ Pikachu's hand, surprisingly delicate, reached out and rested lightly on his che
 "You're my everything, Chris," she whispered, her voice barely audible, yet resounding in the quiet room.
 
 He wrapped his arm around her, pulling her gently closer, cherishing the feeling of her small, warm body against his. In that moment, surrounded by the soft light and the growing intimacy, Chris knew, with an undeniable certainty, that their love story was truly extraordinary, a testament to the unexpected, boundless forms that affection could take.` },
-{ id: 5, image: '/assets/page5.png', text: `The soft morning light filtered through the blinds, painting stripes across the bedroom floor. Chris stirred, the scent of lavender and a familiar sweet aroma filling his senses. He blinked, slowly coming to full awareness, and found himself tangled in the sheets, with Pikachu nestled comfortably beside him.
+{ id: 5, image: './assets/page5.png', text: `The soft morning light filtered through the blinds, painting stripes across the bedroom floor. Chris stirred, the scent of lavender and a familiar sweet aroma filling his senses. He blinked, slowly coming to full awareness, and found himself tangled in the sheets, with Pikachu nestled comfortably beside him.
 
 She was still in her silken nightgown, her head resting gently on his shoulder, her tiny ear twitching almost imperceptibly as she breathed in soft, even sighs. The soft glow of dawn highlighted the delicate curve of her cheek, the long lashes that fanned out against her fur, and the gentle rise and fall of her chest.
 
